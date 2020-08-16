@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\obj\Debug\uri1048_aumentoSalarial.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\obj\Debug\uri1048_aumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\bin\Debug\uri1048_aumentoSalarial.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\bin\Debug\uri1048_aumentoSalarial.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\bin\Debug\uri1048_aumentoSalarial.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\obj\Debug\uri1048_aumentoSalarial.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1048_aumentoSalarial\uri1048_aumentoSalarial\obj\Debug\uri1048_aumentoSalarial.pdb

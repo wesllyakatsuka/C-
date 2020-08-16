@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\bin\Debug\uri1041_coordenadasDeUmPonto.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\bin\Debug\uri1041_coordenadasDeUmPonto.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\bin\Debug\uri1041_coordenadasDeUmPonto.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\obj\Debug\uri1041_coordenadasDeUmPonto.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\obj\Debug\uri1041_coordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\obj\Debug\uri1041_coordenadasDeUmPonto.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1041_coordenadasDeUmPonto\uri1041_coordenadasDeUmPonto\obj\Debug\uri1041_coordenadasDeUmPonto.pdb

@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\obj\Debug\uri1044_multiplos.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\bin\Debug\uri1044_multiplos.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\bin\Debug\uri1044_multiplos.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\bin\Debug\uri1044_multiplos.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\obj\Debug\uri1044_multiplos.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1044_multiplos\uri1044_multiplos\obj\Debug\uri1044_multiplos.pdb

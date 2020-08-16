@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\bin\Debug\teoria_facaEnquanto.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\bin\Debug\teoria_facaEnquanto.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\bin\Debug\teoria_facaEnquanto.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\obj\Debug\teoria_facaEnquanto.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\obj\Debug\teoria_facaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\obj\Debug\teoria_facaEnquanto.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exemploFacaEnquanto\teoria_facaEnquanto\obj\Debug\teoria_facaEnquanto.pdb

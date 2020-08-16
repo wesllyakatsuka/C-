@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\bin\Debug\uri1046_tempoDeJogo.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\bin\Debug\uri1046_tempoDeJogo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\bin\Debug\uri1046_tempoDeJogo.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\obj\Debug\uri1046_tempoDeJogo.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\obj\Debug\uri1046_tempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\obj\Debug\uri1046_tempoDeJogo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1046_tempoDeJogo\uri1046_tempoDeJogo\obj\Debug\uri1046_tempoDeJogo.pdb

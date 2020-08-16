@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\bin\Debug\uri1066.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\bin\Debug\uri1066.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\bin\Debug\uri1066.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\obj\Debug\uri1066.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\obj\Debug\uri1066.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1066\uri1066\obj\Debug\uri1066.pdb

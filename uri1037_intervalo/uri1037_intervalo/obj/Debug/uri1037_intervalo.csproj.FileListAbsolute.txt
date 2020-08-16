@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\bin\Debug\uri1037_intervalo.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\bin\Debug\uri1037_intervalo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\bin\Debug\uri1037_intervalo.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\obj\Debug\uri1037_intervalo.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\obj\Debug\uri1037_intervalo.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\obj\Debug\uri1037_intervalo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1037_intervalo\uri1037_intervalo\obj\Debug\uri1037_intervalo.pdb

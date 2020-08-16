@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\bin\Debug\uri1064_positvosEMedia.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\bin\Debug\uri1064_positvosEMedia.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\bin\Debug\uri1064_positvosEMedia.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\obj\Debug\uri1064_positvosEMedia.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\obj\Debug\uri1064_positvosEMedia.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1064_positvosEMedia\uri1064_positvosEMedia\obj\Debug\uri1064_positvosEMedia.pdb

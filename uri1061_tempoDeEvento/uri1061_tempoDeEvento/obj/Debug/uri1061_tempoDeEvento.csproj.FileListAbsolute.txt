@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\bin\Debug\uri1061_tempoDeEvento.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\bin\Debug\uri1061_tempoDeEvento.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\bin\Debug\uri1061_tempoDeEvento.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\obj\Debug\uri1061_tempoDeEvento.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\obj\Debug\uri1061_tempoDeEvento.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1061_tempoDeEvento\uri1061_tempoDeEvento\obj\Debug\uri1061_tempoDeEvento.pdb

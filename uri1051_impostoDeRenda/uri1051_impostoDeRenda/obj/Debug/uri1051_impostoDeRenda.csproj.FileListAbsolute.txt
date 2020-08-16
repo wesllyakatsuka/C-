@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\bin\Debug\uri1051_impostoDeRenda.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\bin\Debug\uri1051_impostoDeRenda.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\bin\Debug\uri1051_impostoDeRenda.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\obj\Debug\uri1051_impostoDeRenda.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\obj\Debug\uri1051_impostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\obj\Debug\uri1051_impostoDeRenda.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1051_impostoDeRenda\uri1051_impostoDeRenda\obj\Debug\uri1051_impostoDeRenda.pdb

@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\bin\Debug\uri1114_senhaFixa.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\bin\Debug\uri1114_senhaFixa.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\bin\Debug\uri1114_senhaFixa.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\obj\Debug\uri1114_senhaFixa.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\obj\Debug\uri1114_senhaFixa.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1114_senhaFixa\uri1114_senhaFixa\obj\Debug\uri1114_senhaFixa.pdb

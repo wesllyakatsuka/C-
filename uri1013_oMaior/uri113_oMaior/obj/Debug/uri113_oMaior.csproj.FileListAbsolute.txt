@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\obj\Debug\uri113_oMaior.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\obj\Debug\uri113_oMaior.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\bin\Debug\uri113_oMaior.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\bin\Debug\uri113_oMaior.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\bin\Debug\uri113_oMaior.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\obj\Debug\uri113_oMaior.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri113_oMaior\uri113_oMaior\obj\Debug\uri113_oMaior.pdb

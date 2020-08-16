@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\obj\Debug\uri1045_tiposDeTriangulo.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\obj\Debug\uri1045_tiposDeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\bin\Debug\uri1045_tiposDeTriangulo.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\bin\Debug\uri1045_tiposDeTriangulo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\bin\Debug\uri1045_tiposDeTriangulo.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\obj\Debug\uri1045_tiposDeTriangulo.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1045_tiposDeTriangulo\uri1045_tiposDeTriangulo\obj\Debug\uri1045_tiposDeTriangulo.pdb

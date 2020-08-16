@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\bin\Debug\exResolvidoPara03.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\bin\Debug\exResolvidoPara03.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\bin\Debug\exResolvidoPara03.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\obj\Debug\exResolvidoPara03.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\obj\Debug\exResolvidoPara03.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\obj\Debug\exResolvidoPara03.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara03\exResolvidoPara03\obj\Debug\exResolvidoPara03.pdb

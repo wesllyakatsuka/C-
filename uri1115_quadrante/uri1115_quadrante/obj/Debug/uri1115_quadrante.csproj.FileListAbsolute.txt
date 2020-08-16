@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\bin\Debug\uri1115_quadrante.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\bin\Debug\uri1115_quadrante.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\bin\Debug\uri1115_quadrante.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\obj\Debug\uri1115_quadrante.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\obj\Debug\uri1115_quadrante.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\obj\Debug\uri1115_quadrante.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\uri1115_quadrante\uri1115_quadrante\obj\Debug\uri1115_quadrante.pdb

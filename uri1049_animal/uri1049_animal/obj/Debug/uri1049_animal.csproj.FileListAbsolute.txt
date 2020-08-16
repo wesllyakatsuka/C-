@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\bin\Debug\uri1049_animal.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\bin\Debug\uri1049_animal.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\bin\Debug\uri1049_animal.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\obj\Debug\uri1049_animal.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\obj\Debug\uri1049_animal.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\obj\Debug\uri1049_animal.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1049_animal\uri1049_animal\obj\Debug\uri1049_animal.pdb

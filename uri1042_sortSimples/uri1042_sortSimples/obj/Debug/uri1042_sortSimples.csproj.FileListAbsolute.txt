@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\bin\Debug\uri1042_sortSimples.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\bin\Debug\uri1042_sortSimples.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\bin\Debug\uri1042_sortSimples.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\obj\Debug\uri1042_sortSimples.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\obj\Debug\uri1042_sortSimples.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\obj\Debug\uri1042_sortSimples.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1042_sortSimples\uri1042_sortSimples\obj\Debug\uri1042_sortSimples.pdb

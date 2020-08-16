@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\obj\Debug\exResolvidoWhile02.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\bin\Debug\exResolvidoWhile02.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\bin\Debug\exResolvidoWhile02.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\bin\Debug\exResolvidoWhile02.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\obj\Debug\exResolvidoWhile02.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\obj\Debug\exResolvidoWhile02.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoWhile02\exResolvidoWhile02\obj\Debug\exResolvidoWhile02.csprojAssemblyReference.cache

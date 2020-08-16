@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\obj\Debug\uri1035_testeDeSelecao.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\obj\Debug\uri1035_testeDeSelecao.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\bin\Debug\uri1035_testeDeSelecao.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\bin\Debug\uri1035_testeDeSelecao.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\bin\Debug\uri1035_testeDeSelecao.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\obj\Debug\uri1035_testeDeSelecao.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1035_testeDeSelecao\uri1035_testeDeSelecao\obj\Debug\uri1035_testeDeSelecao.pdb

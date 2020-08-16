@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\bin\Debug\uri1020_IdadeEmDias.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\bin\Debug\uri1020_IdadeEmDias.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\bin\Debug\uri1020_IdadeEmDias.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\obj\Debug\uri1020_IdadeEmDias.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\obj\Debug\uri1020_IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\obj\Debug\uri1020_IdadeEmDias.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1020_IdadeEmDias\uri1020_IdadeEmDias\obj\Debug\uri1020_IdadeEmDias.pdb

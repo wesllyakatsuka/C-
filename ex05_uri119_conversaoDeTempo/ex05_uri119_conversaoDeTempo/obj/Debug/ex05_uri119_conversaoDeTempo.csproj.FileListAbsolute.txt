@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\bin\Debug\ex05_uri119_conversaoDeTempo.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\bin\Debug\ex05_uri119_conversaoDeTempo.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\bin\Debug\ex05_uri119_conversaoDeTempo.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\obj\Debug\ex05_uri119_conversaoDeTempo.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\obj\Debug\ex05_uri119_conversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\obj\Debug\ex05_uri119_conversaoDeTempo.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex05_uri119_conversaoDeTempo\ex05_uri119_conversaoDeTempo\obj\Debug\ex05_uri119_conversaoDeTempo.pdb

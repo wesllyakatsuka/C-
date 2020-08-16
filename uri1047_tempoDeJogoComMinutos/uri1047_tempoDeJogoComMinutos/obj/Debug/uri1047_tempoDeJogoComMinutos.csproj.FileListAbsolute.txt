@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\bin\Debug\uri1047_tempoDeJogoComMinutos.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\bin\Debug\uri1047_tempoDeJogoComMinutos.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\bin\Debug\uri1047_tempoDeJogoComMinutos.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\obj\Debug\uri1047_tempoDeJogoComMinutos.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\obj\Debug\uri1047_tempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\obj\Debug\uri1047_tempoDeJogoComMinutos.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1047_tempoDeJogoComMinutos\uri1047_tempoDeJogoComMinutos\obj\Debug\uri1047_tempoDeJogoComMinutos.pdb

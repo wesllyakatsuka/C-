@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\bin\Debug\uri1011.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\bin\Debug\uri1011.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\bin\Debug\uri1011.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\obj\Debug\uri1011.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\obj\Debug\uri1011.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\uri1011\uri1011\obj\Debug\uri1011.pdb

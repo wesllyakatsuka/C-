@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\obj\Debug\uri1036_bhaskara.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\obj\Debug\uri1036_bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\bin\Debug\uri1036_bhaskara.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\bin\Debug\uri1036_bhaskara.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\bin\Debug\uri1036_bhaskara.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\obj\Debug\uri1036_bhaskara.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1036_bhaskara\uri1036_bhaskara\obj\Debug\uri1036_bhaskara.pdb

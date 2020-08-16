@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\bin\Debug\uri1071_somaIntervaloImpares.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\bin\Debug\uri1071_somaIntervaloImpares.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\bin\Debug\uri1071_somaIntervaloImpares.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\obj\Debug\uri1071_somaIntervaloImpares.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\obj\Debug\uri1071_somaIntervaloImpares.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\obj\Debug\uri1071_somaIntervaloImpares.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao5_estruturas_repetitivas\exResolvidoPara04\uri1071_somaIntervaloImpares\obj\Debug\uri1071_somaIntervaloImpares.pdb

@@ -1,0 +1,6 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\bin\Debug\uri1052_mes.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\bin\Debug\uri1052_mes.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\bin\Debug\uri1052_mes.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\obj\Debug\uri1052_mes.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\obj\Debug\uri1052_mes.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1052_mes\uri1052_mes\obj\Debug\uri1052_mes.pdb

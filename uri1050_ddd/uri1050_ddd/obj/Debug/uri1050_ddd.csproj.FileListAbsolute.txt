@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\bin\Debug\uri1050_ddd.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\bin\Debug\uri1050_ddd.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\bin\Debug\uri1050_ddd.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\obj\Debug\uri1050_ddd.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\obj\Debug\uri1050_ddd.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\obj\Debug\uri1050_ddd.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1050_ddd\uri1050_ddd\obj\Debug\uri1050_ddd.pdb

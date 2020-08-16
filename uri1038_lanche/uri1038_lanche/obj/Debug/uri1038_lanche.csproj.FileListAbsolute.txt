@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\bin\Debug\uri1038_lanche.exe.config
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\bin\Debug\uri1038_lanche.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\bin\Debug\uri1038_lanche.pdb
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\obj\Debug\uri1038_lanche.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\obj\Debug\uri1038_lanche.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\obj\Debug\uri1038_lanche.exe
+C:\Users\wesll\Documents\4.Udemy\C#_iniciantes\secao4_estruturaCondicional\uri1038_lanche\uri1038_lanche\obj\Debug\uri1038_lanche.pdb

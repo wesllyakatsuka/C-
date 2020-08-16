@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\bin\Debug\ex04-mediaEntrePessoas.exe.config
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\bin\Debug\ex04-mediaEntrePessoas.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\bin\Debug\ex04-mediaEntrePessoas.pdb
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\obj\Debug\ex04-mediaEntrePessoas.csprojAssemblyReference.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\obj\Debug\ex04-mediaEntrePessoas.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\obj\Debug\ex04-mediaEntrePessoas.exe
+C:\Users\wesll\Documents\Visual Studio 2017\Projects\secao3-estruturaSequencial\ex04-mediaEntrePessoas\ex04-mediaEntrePessoas\obj\Debug\ex04-mediaEntrePessoas.pdb
